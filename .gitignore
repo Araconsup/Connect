@@ -1,0 +1,16 @@
+# backend
+.venv/
+.env
+__pycache__/
+*.pyc
+db.sqlite3
+media/
+static/
+
+# frontend
+frontend/node_modules/
+frontend/dist/
+frontend/.env
+
+# this script itself
+backdate_commits.bat
