@@ -1,0 +1,6 @@
+- [x] Clarified project requirements: Django app with custom user, WebSocket chat, media, full API, and Node.js client (Instagram/Twitter/YouTube style)
+- [x] Scaffolded Django project and app
+- [x] Implemented custom user model and authentication
+- [x] Set up Django Channels for WebSocket live chat
+- [x] Added media upload and posting functionality
+- [x] Built REST API with Django REST Framework and JWT
